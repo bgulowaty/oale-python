@@ -1,0 +1,6 @@
+[submodule "experiments-base"]
+	path = experiments-base
+	url = git@github.com:bgulowaty/experiments-base.git
+[submodule "stream-learn"]
+	path = stream-learn
+	url = git@github.com:w4k2/stream-learn.git
